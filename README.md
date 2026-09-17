@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./merve-banner.png" alt="Merve Kedersiz" width="100%">
+</p>
+
 # 👋 Hi, I'm Merve Kedersiz!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%F0%9F%92%BB;Backend+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%8C%B1" />
@@ -38,9 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mervekedersiz&show_icons=true&theme=tokyonight" />
 
 ### 🐍 My Contributions
 
